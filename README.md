@@ -4,7 +4,7 @@
 ## I'm a Life-Long Student, Husband, LGBTQI+ Advocate & Health Communicator
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other intrested in health research and communications!
+- 👯 I’m looking to collaborate with others intrested in health research and communications!
 - 🥅 2021 Goals: Contribute more to Githib and post more of my work. 
 - ⚡ Fun fact: I love to travel and been to over 12 countries! 
 
