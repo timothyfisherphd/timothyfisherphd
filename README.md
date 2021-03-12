@@ -1,5 +1,5 @@
 ### Hi there, I'm Timothy B Fisher 👋 - [website] 
-
+- Dr. Ritu Aneja is my research advisor and her labpage can be found here: [labpage]
 
 ## I'm a Life-Long Student, Husband, LGBTQI+ Advocate & Health Communicator
 
@@ -47,6 +47,7 @@
 
 </details>
 
+[labpage]: https://www.anejalab.net/our-people/
 [website]: https://timothyfisherphd.com/
 [twitter]: https://twitter.com/tfisherphd
 [youtube]: https://www.youtube.com/channel/UCVj33JiG5tOqTXx-0jVG8qg
