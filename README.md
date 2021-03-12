@@ -1,12 +1,12 @@
 ### Hi there, I'm Timothy B Fisher 👋 - [website] 
 
 
-## I'm a Graduate Student, Husband, LGBTQI+ Advocate, Health Communicator, and Researcher!!
+## I'm a Life-Long Student, Husband, LGBTQI+ Advocate & Health Communicator
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other intrested in health research and communications!
 - 🥅 2021 Goals: Contribute more to Githib and post more of my work. 
-- ⚡ Fun fact: I am Bisexual and love to travel! 
+- ⚡ Fun fact: I love to travel and been to over 12 countries! 
 
 
 ### Connect with me:
@@ -23,11 +23,8 @@
 ---
 
 ### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [🤯 MSM 33rd Fall Convocation Speech)]  (https://youtu.be/hUBCF71Hk8Q)
-<!-- YOUTUBE:END -->
-
+- 🤯 Public Speaking: MSM 33rd Fall Convocation Speech (Video 1)
+- 😀 Exam Security: Face Detection Implemntation Video (Video 2)
 ---
 
 <details>
@@ -55,4 +52,5 @@
 [youtube]: https://www.youtube.com/channel/UCVj33JiG5tOqTXx-0jVG8qg
 [instagram]: https://www.instagram.com/timothyfisherphd/
 [linkedin]: https://www.linkedin.com/in/timothyfisherphd/
-
+[Video 1]: https://youtu.be/hUBCF71Hk8Q
+[Video 2]: https://youtu.be/Ca9XJz5GpJ0
