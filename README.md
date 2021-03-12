@@ -23,8 +23,8 @@
 ---
 
 ### 📺 Latest YouTube Videos
-- 🤯 Public Speaking: MSM 33rd Fall Convocation Speech (Video 1)
-- 😀 Exam Security: Face Detection Implemntation Video (Video 2)
+- 🤯 Public Speaking: MSM 33rd Fall Convocation Speech [Video 1]
+- 😀 Exam Security: Face Detection Implemntation Video [Video 2]
 ---
 
 <details>
