@@ -25,7 +25,7 @@
 
 ### 📺 Latest YouTube Videos
 - 🤯 Public Speaking: MSM 33rd Fall Convocation Speech [Video 1]
-- 😀 Exam Security: Face Detection Implemntation Video [Video 2]
+- 😀 Exam Security: Face Detection Implementation Video [Video 2]
 ---
 
 [labpage]: https://www.anejalab.net/our-people/
