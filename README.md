@@ -1,6 +1,6 @@
 ### Hi there, I'm Timothy B Fisher 👋 - [website] 
 - Dr. Ritu Aneja is my research advisor and her labpage can be found here: [labpage]
-- Dr. Jun Kong is my co-advisor in his biography page can be found here: : [bio]
+- Dr. Jun Kong is my co-advisor and his biography page can be found here: : [bio]
 
 ## I'm a Life-Long Student, Husband, LGBTQI+ Advocate & Health Communicator
 
